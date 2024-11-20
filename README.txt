@@ -30,9 +30,13 @@ A Blender addon that adds an option to select faces, edges, or vertices with a s
 3. Press **Shift + G** (Select Similar) and choose **Color Attribute**.
 4. Adjust the **Color Threshold** in the bottom-left panel to refine the selection.
 
+---
+
 ## Requirements
 
 - Blender 4.2 or later.
+
+---
 
 ## License
 
