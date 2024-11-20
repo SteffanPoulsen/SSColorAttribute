@@ -18,8 +18,8 @@ bl_info = {
     "version": (1, 0, 0),
     "blender": (4, 2, 0),
     "location": "View3D > Edit Mode > Select > Select Similar",
-    "wiki_url": "https://github.com/SteffanPoulsen/SSAC",
-    "tracker_url": "https://github.com/SteffanPoulsen/SSAC",
+    "wiki_url": "https://github.com/SteffanPoulsen/SSColorAttribute",
+    "tracker_url": "https://github.com/SteffanPoulsen/SSColorAttribute",
     "support": "COMMUNITY",
     "category": "Edit Mesh",
 }
